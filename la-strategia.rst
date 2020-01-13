@@ -10,6 +10,7 @@ La **strategia di innovazione** affonda le radici negli Obiettivi di Sviluppo So
 Abbiamo strutturato ogni sfida in **tre obiettivi** che si realizzano attraverso azioni concrete: le prime **venti (+1) azioni** di innovazione e digitalizzazione nella sezione “Piano d’azione”, rappresentano un punto di partenza.
 
 Proprio per permettere un’attuazione efficace del piano strategico, la strategia:
+
 - è stata inserita **sulla piattaforma partecipativa della Pubblica Amministrazione** `(Partecipa) <https://partecipa.gov.it/processes/innovazione-tecnologica/>`_, affinchè chiunque possa dare il suo contributo proponendo un’azione, un progetto un’iniziativa che risponda alle sfide lanciate dal documento; 
 - sarà aggiornata ogni 4 mesi per verificare lo stato di sviluppo delle azioni, l’inserimento di nuove azioni e il raggiungimento della visione generale.
 
