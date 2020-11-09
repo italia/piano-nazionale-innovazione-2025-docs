@@ -7,4 +7,4 @@ Ogni cittadino deve disporre di un’identità digitale unica, gratuita, facile 
 
 **COME**
 
-Prevediamo una modifica della disciplina vigente allo scopo di affidare il **rilascio delle identità digitali direttamente allo Stato**, come avviene per ogni altro documento di identità, coordinare il sistema pubblico dell’identità digitale con quello delle carte di identità elettronica in modo che si tratti di due facce della stessa medaglia, identità unica digitale e analogica, utilizzabile per finalità diverse. Infine vogliamo affidare la gestione delle identità digitali e degli attributi a una rete di soggetti pubblici e privati dotati di elevati standard di affidabilità organizzativa e tecnologica.
+Coordinando il sistema pubblico dell’identità digitale con quello delle carte di identità elettronica in modo che si tratti di due facce della stessa medaglia, identità unica digitale e analogica, utilizzabile per finalità diverse. Infine vogliamo affidare la gestione delle identità digitali e degli attributi a una rete di soggetti pubblici e privati dotati di elevati standard di affidabilità organizzativa e tecnologica.
